@@ -36,5 +36,7 @@ public class Main {
         for (final File uTests : preprocessor.testFiles) {
             FileTools.replaceStringsInFileFromMap(uTests, keyToreplaceMap);
         }
+
+        System.out.println("Testing CherryPicking1");
     }
 }
