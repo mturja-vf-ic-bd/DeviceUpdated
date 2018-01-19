@@ -38,5 +38,6 @@ public class Main {
         }
 
         System.out.println("Testing CherryPicking1");
+        System.out.println("Testing CherryPicking2");
     }
 }
